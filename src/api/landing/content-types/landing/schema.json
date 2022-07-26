@@ -4,7 +4,8 @@
   "info": {
     "singularName": "landing",
     "pluralName": "landings",
-    "displayName": "Landing"
+    "displayName": "Landing",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -12,13 +13,16 @@
   "pluginOptions": {},
   "attributes": {
     "title": {
-      "type": "string"
+      "type": "string",
+      "required": true
     },
     "description": {
-      "type": "string"
+      "type": "string",
+      "required": true
     },
     "isStrapyCool": {
-      "type": "boolean"
+      "type": "boolean",
+      "required": true
     }
   }
 }
