@@ -1,4 +1,12 @@
-# 🚀 Getting started with Strapi
+# Welcome to my Strapi case study! 👨‍💻
+
+I made this repository as a case study for the utilities and workflow of [Strapi](https://strapi.io/), the headless CMS. It goes hand to hand with my other repository [strapi-ui](https://github.com/randreu28/strapi-ui). 
+
+The idea is to test the limits of having a front-end made with Next.js, which is populated with the data created in my [Admin panel](https://randreu28-strapi-api.herokuapp.com/admin) made with Strapi. 
+
+Feel free to check it out!
+
+## 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
 
