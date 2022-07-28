@@ -16,12 +16,12 @@
       "type": "string",
       "required": true
     },
-    "description": {
-      "type": "string",
-      "required": true
-    },
     "isStrapyCool": {
       "type": "boolean",
+      "required": true
+    },
+    "description": {
+      "type": "richtext",
       "required": true
     }
   }
